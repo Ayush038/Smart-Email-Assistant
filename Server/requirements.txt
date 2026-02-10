@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+python-dotenv
+email-validator
+openai
+fastmcp
+requests
+certifi
+python-jose[cryptography]
+passlib[bcrypt]
+fastapi-users
